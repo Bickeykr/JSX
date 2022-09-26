@@ -8,6 +8,7 @@ ReactDOM.render(
   <div>
     <p> Created by Bickeykr </p>
     <p> Copyright 2022 </p>
+    <p> Copyright 2022 </p>
   </div>,
   document.getElementById("root")
 );
